@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562270730217",
+    "project_id": "ncert-be70c",
+    "storage_bucket": "ncert-be70c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562270730217:android:19a55d73885034ccaafd78",
+        "android_client_info": {
+          "package_name": "com.admin.ncert_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562270730217-6tqjgn2q5esuhrv7psjv6b7nhb8bjj72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD4Ub_taN0Z52mk060r796W10JRy3c3jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562270730217-6tqjgn2q5esuhrv7psjv6b7nhb8bjj72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
